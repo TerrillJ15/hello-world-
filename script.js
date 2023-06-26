@@ -11,3 +11,4 @@ const element = React.createElement(
 );
 
 ReactDOM.render(element, document.getElementById('root'));
+ReactDOM.render(element, document.getElementById('root2'));
